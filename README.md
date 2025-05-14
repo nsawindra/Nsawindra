@@ -12,7 +12,7 @@ Welcome to my GitHub profile! 👋
 - 📖 Studied at Universitas Siber Asia  
 - 🧠 Computer Science student at UNSIA  
 - 📫 Reach me at: [nabilahputri873@gmail.com](mailto:nabilahputri873@gmail.com)  
-- 🔗 Connect with me on [LinkedIn](https://linkedin.com/in/nabilah-sawindra-5719a8286)  
+- 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/nabilah-putri-sawindra-2526a9363/)  
 - 💬 Ask me about anything, I am happy to help  
 
 ---
